@@ -1,0 +1,17 @@
+<svg width="160" height="160" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Author photo placeholder for Maya Foster, small business teacher and trainer">
+  <defs>
+    <linearGradient id="mf-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="mf-sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FCD34D"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="80" fill="url(#mf-bg)"/>
+  <circle cx="80" cy="80" r="68" fill="#FFFFFF"/>
+  <circle cx="80" cy="80" r="68" fill="url(#mf-sun)" opacity="0.18"/>
+  <text x="80" y="98" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="56" fill="#1F2937" letter-spacing="-2">MF</text>
+  <circle cx="138" cy="40" r="10" fill="#FCD34D"/>
+</svg>
